@@ -1,4 +1,4 @@
-# vark
+# neto
 
 experiments in image, sound, and digital decay.
 
